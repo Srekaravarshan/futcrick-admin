@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>335469868651-6bjr6sg3lmu0hd3tqko3ob3nhlfeqcmj.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.335469868651-6bjr6sg3lmu0hd3tqko3ob3nhlfeqcmj</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>335469868651-8r7d9ndpjocgt0f56e7tc8vq21kv3uem.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB_8ZArHITyjmj17Jyt1Ta7d5ctkfCrESk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>335469868651</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>futcrickadmin</string>
+	<key>PROJECT_ID</key>
+	<string>futcrick-f5735</string>
+	<key>STORAGE_BUCKET</key>
+	<string>futcrick-f5735.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:335469868651:ios:df234184dec2367986232e</string>
+</dict>
+</plist>

@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "335469868651",
+    "project_id": "futcrick-f5735",
+    "storage_bucket": "futcrick-f5735.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:335469868651:android:84e4dcbd6135ea6786232e",
+        "android_client_info": {
+          "package_name": "com.futcrick"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "335469868651-8r7d9ndpjocgt0f56e7tc8vq21kv3uem.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.futcrick",
+            "certificate_hash": "07e6b1f00198c86d86a6da0824dce9ce8d1d5d10"
+          }
+        },
+        {
+          "client_id": "335469868651-fsg7llgf8hiu29ag9a37e3rii9pg1suf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9WB5Gn5xCj9HhQfARbNnLjb7PLoc2w7I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "335469868651-fsg7llgf8hiu29ag9a37e3rii9pg1suf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "335469868651-0sg2rvcnd7llgt07cnptigd41on87pav.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.futcrick"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:335469868651:android:229d8fdd6f69313586232e",
+        "android_client_info": {
+          "package_name": "com.futcrick_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "335469868651-93n3tld2orscnbanfgge14uavtiiin1o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.futcrick_admin",
+            "certificate_hash": "07e6b1f00198c86d86a6da0824dce9ce8d1d5d10"
+          }
+        },
+        {
+          "client_id": "335469868651-fsg7llgf8hiu29ag9a37e3rii9pg1suf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9WB5Gn5xCj9HhQfARbNnLjb7PLoc2w7I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "335469868651-fsg7llgf8hiu29ag9a37e3rii9pg1suf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "335469868651-0sg2rvcnd7llgt07cnptigd41on87pav.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.futcrick"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
